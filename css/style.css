@@ -3657,14 +3657,14 @@ hr {
 
 .button-default-outline, .button-default-outline:focus {
 	color: #ffffff;
-	background-color: transparent;
-	border-color: #ffffff;
+	background-color: #13203f9e;
+	border-color: #13203f00;
 }
 
 .button-default-outline:hover, .button-default-outline:active {
 	color: #ffffff;
 	background-color: #50ba87;
-	border-color: #50ba87;
+	border-color: #13203f;
 }
 
 .button-default-outline.button-ujarak::before {
@@ -12475,11 +12475,11 @@ html [class*='section-'].section-top-0 {
 }
 
 .context-dark .button.button-ujarak:not([class*='button-secondary'])::before, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary'])::before, .bg-primary .button.button-ujarak:not([class*='button-secondary'])::before {
-	background: #50ba87;
+	background: #13203f;
 }
 
 .context-dark .button.button-ujarak:not([class*='button-secondary']):hover, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary']):hover, .bg-primary .button.button-ujarak:not([class*='button-secondary']):hover, .context-dark .button.button-ujarak:not([class*='button-secondary']):active, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary']):active, .bg-primary .button.button-ujarak:not([class*='button-secondary']):active {
-	border-color: #50ba87;
+	border-color: #13203f;
 }
 
 .context-dark .button-secondary.button-ujarak::before, .bg-gray-dark .button-secondary.button-ujarak::before, .bg-primary .button-secondary.button-ujarak::before {
